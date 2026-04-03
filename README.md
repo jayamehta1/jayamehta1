@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6198d6b3-eb45-4147-82a5-25bb25533e4c" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8c42d8cd-1447-4145-b0d1-a2edef9d96c5" /><h1 align="center">Hi 👋, I'm Jaya Mehta</h1>
+<h1 align="center">Hi 👋, I'm Jaya Mehta</h1>
 <h3 align="center">A passionate backend developer from India 🇮🇳</h3>
 
 <p align="center">
