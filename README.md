@@ -15,7 +15,7 @@
 
 - 🔭 Currently working on a **pentesting project**
 - 🌱 Currently learning **LangChain and LangGraph**
-- 🤝 Collaborating with **[@himanibhaisora](https://github.com/himanibhaisora)**
+- 🤝 Collaborating with **[@himani482](https://github.com/himani482)**
 - 👨‍💻 All my projects are available at **[github.com/jayamehta1](https://github.com/jayamehta1)**
 - 📫 Reach me at **jayamehta001@gmail.com**
 - ⚡ Fun fact: **I take my code seriously, but not myself**
