@@ -17,6 +17,10 @@
   <a href="mailto:jayamehta001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/jayamehta1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jaya-mehta-394098207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/jayamehta/" target="blank"><img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" height="30"/></a>
+  <a href="https://www.interviewbit.com/profile/jayamehta001_a2684287f616/"  target="blank"><img src="https://img.icons8.com/?size=100&id=O51Kg2nJsbIW&format=png&color=000000"  height="30" /></a>
+  <a href="http://in.pinterest.com/jayamehta001/" target="blank"><img src="https://img.icons8.com/?size=100&id=63676&format=png&color=000000" alt="jayamehta" height="30" /></a>
+
 </p>
 
 ---
