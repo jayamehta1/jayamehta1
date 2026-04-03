@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaya Mehta</h1>
 <h3 align="center">A passionate backend developer from India 🇮🇳</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jayamehta1&label=Profile%20views&color=0e75b6&style=flat" alt="jayamehta1" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -59,12 +59,12 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayamehta1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
+</p> -->
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jayamehta1&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayamehta1" alt="Streak Stats" />
 </p>
