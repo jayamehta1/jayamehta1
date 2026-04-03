@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaya Mehta</h1>
 <h3 align="center">A passionate backend developer from India 🇮🇳</h3>
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayamehta1&label=Profile%20views&color=0e75b6&style=flat" alt="jayamehta1" />
-</p> -->
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jayamehta1&margin-w=10" alt="jayamehta1" />
-  </a>
-</p>
-
 ---
 
 - 🔭 Currently working on a **pentesting project**
