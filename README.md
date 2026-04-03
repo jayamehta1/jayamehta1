@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaya Mehta</h1>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6198d6b3-eb45-4147-82a5-25bb25533e4c" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8c42d8cd-1447-4145-b0d1-a2edef9d96c5" /><h1 align="center">Hi 👋, I'm Jaya Mehta</h1>
 <h3 align="center">A passionate backend developer from India 🇮🇳</h3>
 
 <p align="center">
@@ -26,6 +26,7 @@
 <p align="left">
   <a href="mailto:jayamehta001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/jayamehta1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a herf="https://www.linkedin.com/in/jaya-mehta-394098207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
