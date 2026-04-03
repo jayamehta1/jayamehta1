@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayamehta1&label=Profile%20views&color=0e75b6&style=flat" alt="jayamehta1" />
+  <img alt="jayamehta1" />
 </p>
 
 <p align="center">
