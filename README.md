@@ -11,6 +11,12 @@
 
 ---
 
+<a href="https://jayamehta1.github.io/jayamehta.github.io/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0077B5?style=for-the-badge&labelColor=000000" />
+</a>
+
+---
+
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
   <a href="mailto:jayamehta001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
