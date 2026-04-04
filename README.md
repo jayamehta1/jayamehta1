@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaya Mehta</h1>
-<h3 align="center">A passionate backend developer from India 🇮🇳</h3>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0077B5,100:00C6FF&height=300&section=header&text=Jaya%20Mehta&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=55&stroke=0077B5&strokeWidth=2&desc=backend%20developer%20%E2%80%A2%20security%20enthusiast%20%E2%80%A2%20ai%20explorer&descSize=18&descAlignY=75&descAlign=50&descColor=a0c4ff" />
 
 ---
 
