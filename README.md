@@ -59,9 +59,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jayamehta1&show_icons=true&locale=en" alt="GitHub Stats" />
 </p> -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayamehta1" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayamehta1&theme=tokyonight" alt="Streak Stats" />
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/jayamehta1/jayamehta1/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
