@@ -64,3 +64,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/jayamehta1/jayamehta1/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
