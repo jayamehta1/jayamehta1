@@ -62,3 +62,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayamehta1" alt="Streak Stats" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jayamehta1/jayamehta1/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
